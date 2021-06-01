@@ -1,7 +1,6 @@
 # Notion Capture
 
 This starter shows how to use the new Notion API with Next.js. You can capture emails that will populate a Notion database.
-
 <div align="center">
 <img src="https://github.com/btahir/notion-capture/blob/main/public/images/demo.gif">
 <p align="center">
