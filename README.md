@@ -49,7 +49,7 @@ env: {
 } 
 ```
 
-### Update Colors
+#### Update Colors
 
 You can update the color palette in tailwind.config.js file.
 
